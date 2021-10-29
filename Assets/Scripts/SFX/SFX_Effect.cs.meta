@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 13db967582573f387bd4f16f5bedad59
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_noiseSettingsData: {fileID: 11400000, guid: 1a503a2f0a9a91563be79908807165b3,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
